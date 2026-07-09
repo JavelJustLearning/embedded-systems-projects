@@ -1,0 +1,2 @@
+A collection of embedded systems projects built on the Arduino UNO platform, focused on sensors, actuation, and control systems. Projects progress from basic sensor integration toward closed-loop feedback control; core skills for robotics and automation engineering.
+Built as part of a self-directed learning track alongside a Mechanical Engineering degree, with an emphasis on understanding the math and theory behind each implementation rather than following tutorials.
