@@ -1,0 +1,1 @@
+A closed-loop position controller using a potentiometer as setpoint input and an SG90 servo as the controlled output. Implements a full PID control loop in Arduino C++ from scratch, including proportional, integral, and derivative terms, anti-windup clamping, and real-time Serial Plotter visualization.
